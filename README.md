@@ -9,4 +9,4 @@
 #
 ```
 
-Edited for minimalTWRP 12.1 by WIFI WARRIOR
+Edited for minimalTWRP 12.1 by MEyoussef
