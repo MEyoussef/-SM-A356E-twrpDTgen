@@ -1,7 +1,6 @@
 # Android device tree for samsung SM-A356E (a35x)
 
 ```
-
 # Copyright (C) 2025 The Android Open Source Project
 # Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
 #
